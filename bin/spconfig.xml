@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+<bean id = "id1" class="WelcomeBean">
+<property name="message" value = "WelcomeBean"></property>
+</bean>
+</beans>
